@@ -1,0 +1,15 @@
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\bin\Debug\net7.0\a-very-big-sum.exe
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\bin\Debug\net7.0\a-very-big-sum.deps.json
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\bin\Debug\net7.0\a-very-big-sum.runtimeconfig.json
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\bin\Debug\net7.0\a-very-big-sum.dll
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\bin\Debug\net7.0\a-very-big-sum.pdb
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.csproj.AssemblyReference.cache
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.AssemblyInfoInputs.cache
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.AssemblyInfo.cs
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.csproj.CoreCompileInputs.cache
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.dll
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\refint\a-very-big-sum.dll
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.pdb
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\a-very-big-sum.genruntimeconfig.cache
+D:\Business\hackerRank\problem4 - a-very-big-sum\a-very-big-sum\obj\Debug\net7.0\ref\a-very-big-sum.dll

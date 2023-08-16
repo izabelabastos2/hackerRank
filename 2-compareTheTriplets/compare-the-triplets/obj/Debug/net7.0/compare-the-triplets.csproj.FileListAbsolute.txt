@@ -1,0 +1,15 @@
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\bin\Debug\net7.0\compare-the-triplets.exe
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\bin\Debug\net7.0\compare-the-triplets.deps.json
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\bin\Debug\net7.0\compare-the-triplets.runtimeconfig.json
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\bin\Debug\net7.0\compare-the-triplets.dll
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\bin\Debug\net7.0\compare-the-triplets.pdb
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.csproj.AssemblyReference.cache
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.AssemblyInfoInputs.cache
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.AssemblyInfo.cs
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.csproj.CoreCompileInputs.cache
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.dll
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\refint\compare-the-triplets.dll
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.pdb
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\compare-the-triplets.genruntimeconfig.cache
+D:\Business\hackerRank\Problem3 - compare-the-triplets\compare-the-triplets\obj\Debug\net7.0\ref\compare-the-triplets.dll

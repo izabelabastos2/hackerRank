@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "a-very-big-sum/1.0.0": {
+        "runtime": {
+          "a-very-big-sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a-very-big-sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

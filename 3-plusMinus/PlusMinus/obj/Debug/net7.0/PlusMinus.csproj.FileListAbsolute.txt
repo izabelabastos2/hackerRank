@@ -1,0 +1,15 @@
+D:\Business\hackerRank\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.exe
+D:\Business\hackerRank\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.deps.json
+D:\Business\hackerRank\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.runtimeconfig.json
+D:\Business\hackerRank\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.dll
+D:\Business\hackerRank\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.pdb
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.AssemblyReference.cache
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfoInputs.cache
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfo.cs
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.CoreCompileInputs.cache
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.dll
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\refint\PlusMinus.dll
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.pdb
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.genruntimeconfig.cache
+D:\Business\hackerRank\PlusMinus\PlusMinus\obj\Debug\net7.0\ref\PlusMinus.dll
